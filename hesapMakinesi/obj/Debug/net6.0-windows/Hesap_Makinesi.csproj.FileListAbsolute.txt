@@ -1,0 +1,34 @@
+C:\Users\serha\source\repos\Hesap_Makinesi\bin\Debug\net6.0-windows\Hesap_Makinesi.exe
+C:\Users\serha\source\repos\Hesap_Makinesi\bin\Debug\net6.0-windows\Hesap_Makinesi.deps.json
+C:\Users\serha\source\repos\Hesap_Makinesi\bin\Debug\net6.0-windows\Hesap_Makinesi.runtimeconfig.json
+C:\Users\serha\source\repos\Hesap_Makinesi\bin\Debug\net6.0-windows\Hesap_Makinesi.dll
+C:\Users\serha\source\repos\Hesap_Makinesi\bin\Debug\net6.0-windows\Hesap_Makinesi.pdb
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.csproj.AssemblyReference.cache
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.Form1.resources
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.AssemblyInfoInputs.cache
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.AssemblyInfo.cs
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.dll
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\refint\Hesap_Makinesi.dll
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.pdb
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\Hesap_Makinesi.genruntimeconfig.cache
+C:\Users\serha\source\repos\Hesap_Makinesi\obj\Debug\net6.0-windows\ref\Hesap_Makinesi.dll
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\bin\Debug\net6.0-windows\Hesap_Makinesi.exe
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\bin\Debug\net6.0-windows\Hesap_Makinesi.deps.json
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\bin\Debug\net6.0-windows\Hesap_Makinesi.runtimeconfig.json
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\bin\Debug\net6.0-windows\Hesap_Makinesi.dll
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\bin\Debug\net6.0-windows\Hesap_Makinesi.pdb
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.csproj.AssemblyReference.cache
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.Form1.resources
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.AssemblyInfoInputs.cache
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.AssemblyInfo.cs
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.dll
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\refint\Hesap_Makinesi.dll
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.pdb
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\Hesap_Makinesi.genruntimeconfig.cache
+C:\Users\serha\Desktop\Çalışmalarım\132030068-Serhat Uzluk\obj\Debug\net6.0-windows\ref\Hesap_Makinesi.dll
